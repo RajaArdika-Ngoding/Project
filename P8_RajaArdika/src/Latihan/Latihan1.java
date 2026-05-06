@@ -40,7 +40,7 @@ public class Latihan1 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Menu");
+        jLabel1.setText("Kelas");
 
         kelas1.setText("Kelas1");
         kelas1.addActionListener(this::kelas1ActionPerformed);
